@@ -1,3 +1,6 @@
+# OS X Folder Junk
+.DS_Store
+
 # Prerequisites
 *.d
 
